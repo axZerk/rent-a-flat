@@ -1,0 +1,11 @@
+https://m.habrahabr.ru/company/ruvds/blog/343022/
+https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
+https://learn-reactjs.ru/basics/note-to-javascript
+https://hackernoon.com/understanding-state-and-props-in-react-94bc09232b9c
+https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36
+https://medium.freecodecamp.org/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5
+https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+https://medium.freecodecamp.org/do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44
+
+https://github.com/rtivital/react-things#react-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2
+https://github.com/rtivital/react-things#%D0%9D%D1%8B%D1%80%D1%8F%D0%B5%D0%BC-%D0%B2-react-%D1%81-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9

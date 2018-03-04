@@ -1,0 +1,68 @@
+Занятие #1 - Intro to React, JSX, Styling
+- SPA and MPA
+- What's a framework and it's benefits
+- React, Angular, Vue, Ember etc
+- DOM and VirtualDOM
+- create-react-app
+- First app with create-react-app
+- Web is all about components
+- React and ReactDOM packages
+- First component, render method
+- JSX
+- JavaScript expressions in JSX
+- React DevTools
+- Styling: inline, css modules, styled components, CSSinJS
+
+Занятие #2 - Props, PropTypes, Rendering Collections, Collection keys
+- Props
+- Spreading props with {...props}
+- PropTypes
+- statis propTypes
+- static defaultProps
+- Rendering collections, keys
+
+Занятие #3 - Context, props.children,
+- Threading props multiple levels deep
+- Context
+- React context provider
+- props.children
+
+Занятие #4 - React Events
+- React Events model
+- Synthetic event object
+- SyntheticEvent API
+- Context binding
+
+Занятие #5 - Component State, Controlled vs Uncontrolled Components
+- Component state
+- setState
+- Conditional rendering
+- Stateless functional components
+- Forms
+- Controlled components, lifting state up
+- Uncontrolled components, refs
+
+Модуль #6 - Component Lifecycle, Custom methods, Remote Data
+- Component lifecycle
+- API calls on mounting and on event
+
+Модуль #7 -  Component Composition
+Модуль #8 -  React Transitions
+Модуль #9 -  Testing React Components
+
+Модуль #10 -  React Component Patterns
+- Compound Components
+- HOC
+- Render Props
+
+Модуль #11 -  Client Side Routing
+- Intro to routing
+- react-router
+- Handling routes
+- Nested Routes
+- Routing params
+
+*** Хаки под GitHub Pages ***
+- homepage поле в package.json
+- basename prop у BrowserRouter
+- https://goo.gl/ZsszQT"
